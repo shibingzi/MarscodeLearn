@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../.marscode/stockPrediction"
+		},
+		{
+			"path": "../../../../../../.marscode/WeatherPrediction"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
